@@ -1,0 +1,128 @@
+@media (max-width: 575px) {
+    /* line 933, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle {
+      margin-bottom: 50px;
+    }
+  }
+  
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* line 933, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle {
+      margin-bottom: 50px;
+    }
+  }
+  
+  /* line 940, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle span {
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+    color: #eb566c;
+    display: inline-block;
+    position: relative;
+    padding-left: 68px;
+  }
+  
+  @media (max-width: 575px) {
+    /* line 940, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle span {
+      font-size: 14px;
+    }
+  }
+  
+  /* line 953, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle span::before {
+    position: absolute;
+    content: "";
+    width: 54px;
+    height: 2px;
+    background: #eb566c;
+    top: 0;
+    left: 0px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle h2 {
+    font-size: 50px;
+    display: block;
+    color: #092c3f;
+    font-weight: 900;
+  }
+  
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle h2 {
+      font-size: 31px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    /* line 965, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle h2 {
+      font-size: 31px;
+    }
+  }
+  
+  /* line 979, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle2 span {
+    color: #cecece;
+  }
+  
+  /* line 981, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle2 span::before {
+    background: #fff;
+  }
+  
+  /* line 985, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle2 h2 {
+    color: #fff;
+  }
+  
+  @media (max-width: 575px) {
+    /* line 985, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle2 h2 {
+      font-size: 27px;
+    }
+  }
+  
+  /* line 996, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+  .section-tittle3 span {
+    margin-left: 72px;
+  }
+  
+  @media only screen and (min-width: 992px) and (max-width: 1199px) {
+    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle3 h2 {
+      font-size: 44px;
+    }
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle3 h2 {
+      margin-bottom: 50px;
+      font-size: 45px;
+    }
+  }
+  
+  @media only screen and (min-width: 576px) and (max-width: 767px) {
+    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle3 h2 {
+      text-align: left;
+      margin-bottom: 50px;
+      font-size: 26px;
+    }
+  }
+  
+  @media (max-width: 575px) {
+    /* line 999, C:/Users/HP/Desktop/264.Business_HTML/HTML/assets/scss/_common.scss */
+    .section-tittle3 h2 {
+      text-align: left;
+      font-size: 26px;
+      margin-bottom: 50px;
+    }
+  }
