@@ -1,0 +1,35 @@
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('./assets/image/tv\ studio-1edit.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  .mt-50 {
+     vertical-align: 400px;
+  }
+  .card-titleser{
+    /* margin-left:0pxs; */
+   margin-top: 100px;
+ text-align: center;
+  }
+  .card-titleser1{
+      margin-left: 00px;
+    
+  }
+  .card-text{
+     text-align: center;
+  }
+  .btn_ser{
+     /* margin-left: 720px; */
+     margin-top: 00px;
+    text-align: center;
+   background-color: rgb(180, 21, 21);
+  }
+  .jumbo-1{
+      background-image: url(../assets/image/tv\ studio-1edit.jpg);
+  }
+  .jumbo-2{
+   background-image:  url(../assets/image/section_bg02.jpg);
+  }
