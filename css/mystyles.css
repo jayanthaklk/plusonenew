@@ -9,6 +9,28 @@
   .mt-50 {
      vertical-align: 400px;
   }
+   /* .title {
+  @include font-size(4rem);
+} */
+@media (min-width: 400px) {
+  .title {
+    font-size: 2rem;
+  }
+}
+.accordion{
+margin-left: 15%;
+}
+.accordion-item {
+background-color: turquoise;
+border-top-color: turquoise;
+border-color: blue;
+max-width: 800px;
+align-items: center;
+}
+.accordion-header{
+    background-color: blue;
+    text-align: center;
+}
   .card-titleser{
     /* margin-left:0pxs; */
    margin-top: 100px;
@@ -33,3 +55,23 @@
   .jumbo-2{
    background-image:  url(../assets/image/section_bg02.jpg);
   }
+  .bottom-to-top-section{
+    /* text-align: center; */
+    font-size: 50px;
+ margin-left: 50px;
+ }
+ .social-icon{
+   font-size: 50px;
+   /* text-align: center; */
+   color: aqua;
+   margin-right: 10%; 
+ }
+ .footer-1b{
+  
+     text-align: center;
+     /* background-color: turquoise; */
+ }
+ .footer-1c{
+     text-align: center;
+    /* background-color: violet; */
+ }
